@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T08:29:43.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.7" etag="5ad47pjsBzbaBHe5BYIf" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T08:32:57.317Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LrGsuyVdKkKK6meRi7bw" version="22.1.7" type="github">
   <diagram name="Sida-1" id="yPpwmeV9KJYCm5tZkfwi">
-    <mxGraphModel>
+    <mxGraphModel dx="1478" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-1" target="3TbTK0MZ1GDGXiROB_Ax-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-1" value="Start" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="270" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-2" target="3TbTK0MZ1GDGXiROB_Ax-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-2" value="Läs in tal 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-3" target="3TbTK0MZ1GDGXiROB_Ax-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-3" value="Läs in tal 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-6" target="3TbTK0MZ1GDGXiROB_Ax-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-6" value="Utför multiplikation och spara värde i en variabel" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-7" target="3TbTK0MZ1GDGXiROB_Ax-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-7" value="Skriv ut värdet av produkten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="750" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-8" value="Slut" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="850" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
