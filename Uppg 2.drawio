@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-11T08:35:53.349Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="4MMIHbl3EgxC1tvyEB5k" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-11T08:41:08.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ePDIBgbEw6-G1b0MAnuY" version="22.1.7" type="github">
   <diagram name="Sida-1" id="yPpwmeV9KJYCm5tZkfwi">
     <mxGraphModel dx="1478" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -13,25 +13,78 @@
         <mxCell id="3TbTK0MZ1GDGXiROB_Ax-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-2" target="3TbTK0MZ1GDGXiROB_Ax-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-2" value="Skapa ett fält (array) och skriv in värden 8,4,6" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-2" value="Ta in tal 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-3" target="3TbTK0MZ1GDGXiROB_Ax-7">
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-3" target="3TbTK0MZ1GDGXiROB_Ax-12">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="619.9999999999998" as="targetPoint" />
+            <mxPoint x="30" y="629.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-3" value="Beräkna medelvärdet av fältet och spara kvoten i en decimaltalsvariabel" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-3" value="ta in tal 2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-30" y="500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-7" target="3TbTK0MZ1GDGXiROB_Ax-8">
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-8" value="Slut" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="890" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-12" target="3TbTK0MZ1GDGXiROB_Ax-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-7" value="Skriv ut medelvärdet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="620" width="120" height="60" as="geometry" />
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-12" target="3TbTK0MZ1GDGXiROB_Ax-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-8" value="Slut" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="730" width="120" height="80" as="geometry" />
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-12" target="3TbTK0MZ1GDGXiROB_Ax-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-12" value="Tal 1 större än tal 2?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="610" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-15" target="3TbTK0MZ1GDGXiROB_Ax-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-15" value="Nej" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-16" target="3TbTK0MZ1GDGXiROB_Ax-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-16" value="Ja" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-140" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-17" target="3TbTK0MZ1GDGXiROB_Ax-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-17" value="Lika" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="760" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-19" target="3TbTK0MZ1GDGXiROB_Ax-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-50" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-110" y="920" />
+              <mxPoint x="-30" y="920" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-19" value="Skriv ut &quot;tal 1 är större än tal 2&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-24" target="3TbTK0MZ1GDGXiROB_Ax-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160" y="915.0000000000002" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-24" value="Skriv ut &quot;tal 2 är större än tal 1&quot;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="745" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3TbTK0MZ1GDGXiROB_Ax-27" target="3TbTK0MZ1GDGXiROB_Ax-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="3TbTK0MZ1GDGXiROB_Ax-27" value="Skriv ut &quot;talen är lika stora&quot;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-30" y="810" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
